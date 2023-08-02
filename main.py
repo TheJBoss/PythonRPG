@@ -361,7 +361,7 @@ def battle(hero, mob):
                 print("You got away")
                 break
 
-            print("You failed tp get away")
+            print("You failed to get away")
             attack(mob, hero)
 
 
